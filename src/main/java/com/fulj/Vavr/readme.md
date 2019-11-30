@@ -1,0 +1,1 @@
+https://www.vavr.io/vavr-docs/
