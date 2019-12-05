@@ -24,6 +24,9 @@ public class JustTest {
         readDelayValues.put("FlushLag", "6");
         readDelayValues.put("ReplayLag", "7");
         readDelayValueList.add(readDelayValues);
+        System.out.println("================");
+        readDelayValues.remove("ooo");
+        System.out.println("================");
         System.out.println("..."+JSON.toJSONString(readinsDelayMap));
     }
     @Test
