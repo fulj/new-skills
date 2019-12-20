@@ -4,6 +4,8 @@
 
 <img src="../../images/gitrebase/3.png" alt="3" style="zoom:50%;" />
 
+result：
+
 <img src="../../images/gitrebase/4.png" alt="4" style="zoom:50%;" />
 
 
